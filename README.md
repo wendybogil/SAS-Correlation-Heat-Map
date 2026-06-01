@@ -42,7 +42,7 @@ Note: The actual thesis dataset contains sensitive health information and is not
 ## Output Example
 
 ![Correlation Heatmap](CORRELATION_HEATMAP.pdf)
-
+![Correlation Heatmap](CORRELATIONHEATMAP_.png)
 ## Contact
 
 Wendy Bogil  
